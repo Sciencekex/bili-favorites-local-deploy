@@ -19,6 +19,7 @@ graph LR
 ## 🔧 技术实现详解
 
 ### 准备工作
+- 通过开源项目 **[bili-sync](https://github.com/amtoaer/bili-sync)** 实现：
 - 支持Docker的NAS设备（群晖/威联通/TrueNAS等）
 - 硬盘容量建议：按每部视频平均500MB计算，1TB≈存储2000部视频
 - 获取B站Cookie（通过浏览器开发者工具获取）
